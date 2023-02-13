@@ -1,7 +1,7 @@
-# Payments Management
+# Payments Management API
 This project runs with Spring Boot 3.0.2 and Java 17.
 
-##Build
+## Build
 From the root folder run `mvn clean install`
 
 ## Run the application
